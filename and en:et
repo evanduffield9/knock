@@ -1,0 +1,6 @@
+config
+      auto
+          leash
+                         dog : dog       
+                                            the leash 
+                                                           config
